@@ -1,6 +1,6 @@
 # 高松灯的自我介绍
 
-<img src="gsd.png" width="200"  width="200" alt="高松灯形象">
+<img src="gsd.png"   width="200" alt="高松灯形象">
 
 **大家好，我是高松灯**，*我的身份是MyGO!!!!!乐队主唱*。以下是我的自我介绍：
 
